@@ -1,0 +1,22 @@
+.parent-container {
+    height: 100vh;
+
+}
+
+.parts {
+    height: 100vh;
+}
+
+part1 {
+    height: 100vh;
+    width: 50%;
+    background-color: rgb(223, 200, 172);
+
+}
+
+part2 {
+    height: 100vh;
+    width: 50%;
+    background-color: rgb(56, 184, 219);
+
+}
